@@ -6,3 +6,4 @@ tags:
 languages:
   - Ruby
 resources: 0
+parent_template: git@github.com:learn-co-curriculum/phrg-intro-to-ruby-iterators.git
